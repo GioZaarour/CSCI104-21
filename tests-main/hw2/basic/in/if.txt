@@ -1,0 +1,5 @@
+1 LET A 1
+2 IF A = 1 THEN 4
+3 PRINT B
+4 PRINT A
+5 .

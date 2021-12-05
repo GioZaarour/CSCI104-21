@@ -1,0 +1,65 @@
+{
+  "short": "hw2",
+  "title": "Basic Interpreter",
+  "authors": [
+    {
+      "name": "Aaron Cote",
+      "email": "aaroncot@usc.edu"
+    }
+  ],
+  "problems": [
+    {
+      "short": "basic",
+      "title": "Basic Interpreter",
+      "relative_path": ".",
+      "grading": {
+        "enabled": true,
+        "weight": "1",
+        "points": "50",
+        "automated": {
+          "enabled": true,
+          "name": "Automated tests",
+          "minutes": null,
+          "weight": "45",
+          "points": "100"
+        },
+        "review": {
+          "enabled": true,
+          "name": "Code review",
+          "minutes": null,
+          "weight": "5",
+          "points": "100"
+        },
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Aaron Cote",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "basic",
+        "interpreter",
+        "state",
+        "program"
+      ],
+      "notes": null,
+      "difficulty": null
+    }
+  ],
+  "grading": {
+    "points": "50"
+  },
+  "dates": {
+    "assigned": "2021-09-10 00:00:00",
+    "due": "2021-09-24 23:59:59",
+    "deadline": "2021-09-25 23:59:59"
+  },
+  "extra": null,
+  "notes": null,
+  "meta": {
+    "built": "2021-09-22 12:34:05",
+    "curricula": "2.1.2"
+  }
+}

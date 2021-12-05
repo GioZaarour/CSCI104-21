@@ -1,0 +1,63 @@
+{
+  "short": "hw5",
+  "title": "Hashtable",
+  "authors": [
+    {
+      "name": "Aaron Cote",
+      "email": "aaroncot@usc.edu"
+    }
+  ],
+  "problems": [
+    {
+      "short": "hashtable",
+      "title": "Hashtable",
+      "relative_path": ".",
+      "grading": {
+        "enabled": true,
+        "weight": "1",
+        "points": "50",
+        "automated": {
+          "enabled": true,
+          "name": "Automated tests",
+          "minutes": null,
+          "weight": "45",
+          "points": "100"
+        },
+        "review": {
+          "enabled": true,
+          "name": "Code review",
+          "minutes": null,
+          "weight": "5",
+          "points": "100"
+        },
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Aaron Cote",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "hash",
+        "table"
+      ],
+      "notes": null,
+      "difficulty": null
+    }
+  ],
+  "grading": {
+    "points": "50"
+  },
+  "dates": {
+    "assigned": "2021-11-05 00:00:00",
+    "due": "2021-11-19 23:59:59",
+    "deadline": "2021-11-20 23:59:59"
+  },
+  "extra": null,
+  "notes": null,
+  "meta": {
+    "built": "2021-11-18 06:41:49",
+    "curricula": "2.1.2"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "short": "hw3",
+  "title": "Homework 3",
+  "authors": [
+    {
+      "name": "Aaron Cote",
+      "email": "aaroncot@usc.edu"
+    }
+  ],
+  "problems": [
+    {
+      "short": "d_heap",
+      "title": "D-ary Heap",
+      "relative_path": ".",
+      "grading": {
+        "enabled": true,
+        "weight": "40",
+        "points": "40",
+        "automated": {
+          "enabled": true,
+          "name": "Automated tests",
+          "minutes": null,
+          "weight": "35",
+          "points": "35"
+        },
+        "review": {
+          "enabled": true,
+          "name": "Code review",
+          "minutes": null,
+          "weight": "5",
+          "points": "5"
+        },
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Aaron Cote",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "heaps",
+        "data",
+        "structures"
+      ],
+      "notes": null,
+      "difficulty": null
+    },
+    {
+      "short": "doublet",
+      "title": "Doublet With A*",
+      "relative_path": ".",
+      "grading": {
+        "enabled": true,
+        "weight": "50",
+        "points": "50",
+        "automated": {
+          "enabled": true,
+          "name": "Automated tests",
+          "minutes": null,
+          "weight": "45",
+          "points": "45"
+        },
+        "review": {
+          "enabled": true,
+          "name": "Code review",
+          "minutes": null,
+          "weight": "5",
+          "points": "5"
+        },
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Aaron Cote",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "search",
+        "recursion",
+        "a*"
+      ],
+      "notes": null,
+      "difficulty": null
+    }
+  ],
+  "grading": {
+    "points": "90"
+  },
+  "dates": {
+    "assigned": "2021-09-24 00:00:00",
+    "due": null,
+    "deadline": "2019-10-08 23:59:59"
+  },
+  "extra": null,
+  "notes": null,
+  "meta": {
+    "built": "2021-10-06 03:31:00",
+    "curricula": "2.1.2"
+  }
+}

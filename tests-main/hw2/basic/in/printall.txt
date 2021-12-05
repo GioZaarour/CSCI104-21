@@ -1,0 +1,5 @@
+1 LET A 1
+2 LET B 2
+3 LET C 3
+4 PRINTALL
+5 .

@@ -1,0 +1,66 @@
+{
+  "short": "hw4",
+  "title": "Programming Assignment 4",
+  "authors": [
+    {
+      "name": "Aaron Cote",
+      "email": "aaroncot@usc.edu"
+    }
+  ],
+  "problems": [
+    {
+      "short": "rsa",
+      "title": "RSA",
+      "relative_path": ".",
+      "grading": {
+        "enabled": true,
+        "weight": "1",
+        "points": "50",
+        "automated": {
+          "enabled": true,
+          "name": "Automated tests",
+          "minutes": null,
+          "weight": "45",
+          "points": "100"
+        },
+        "review": {
+          "enabled": true,
+          "name": "Code review",
+          "minutes": null,
+          "weight": "5",
+          "points": "100"
+        },
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Aaron Cote",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "rsa",
+        "encryption",
+        "decryption",
+        "mod",
+        "math"
+      ],
+      "notes": null,
+      "difficulty": null
+    }
+  ],
+  "grading": {
+    "points": "50"
+  },
+  "dates": {
+    "assigned": "2021-10-15 00:00:00",
+    "due": "2021-10-29 23:59:59",
+    "deadline": "2021-11-01 23:59:59"
+  },
+  "extra": null,
+  "notes": null,
+  "meta": {
+    "built": "2021-10-29 05:24:27",
+    "curricula": "2.1.2"
+  }
+}

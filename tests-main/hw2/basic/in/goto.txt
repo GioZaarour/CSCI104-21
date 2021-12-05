@@ -1,0 +1,5 @@
+1 LET A 1
+2 GOTO 4
+3 LET B 2
+4 PRINTALL
+5 .

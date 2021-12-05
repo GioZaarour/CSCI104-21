@@ -1,0 +1,262 @@
+{
+  "short": "hw1",
+  "title": "Homework 1",
+  "authors": [
+    {
+      "name": "Mark Redekopp",
+      "email": "redekopp@usc.edu"
+    }
+  ],
+  "problems": [
+    {
+      "short": "repository_notes",
+      "title": "Repository Reminders",
+      "relative_path": "repository_notes",
+      "grading": {
+        "enabled": false,
+        "weight": "0",
+        "points": "100",
+        "automated": null,
+        "review": null,
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Mark Redekopp",
+          "email": "redekopp@usc.edu"
+        }
+      ],
+      "topics": [
+        "repository",
+        "notes"
+      ],
+      "notes": null,
+      "difficulty": null
+    },
+    {
+      "short": "skeleton_code",
+      "title": "Skeleton Code",
+      "relative_path": "skeleton_code",
+      "grading": {
+        "enabled": false,
+        "weight": "0",
+        "points": "100",
+        "automated": null,
+        "review": null,
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Mark Redekopp",
+          "email": "redekopp@usc.edu"
+        }
+      ],
+      "topics": [
+        "skeleton",
+        "code"
+      ],
+      "notes": null,
+      "difficulty": null
+    },
+    {
+      "short": "using_valgrind",
+      "title": "Using Valgrind",
+      "relative_path": "using_valgrind",
+      "grading": {
+        "enabled": false,
+        "weight": "0",
+        "points": "100",
+        "automated": null,
+        "review": null,
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Mark Redekopp",
+          "email": "redekopp@usc.edu"
+        }
+      ],
+      "topics": [
+        "valgrind"
+      ],
+      "notes": null,
+      "difficulty": null
+    },
+    {
+      "short": "command_line",
+      "title": "Command Line Arguments",
+      "relative_path": "command_line",
+      "grading": {
+        "enabled": false,
+        "weight": "0",
+        "points": "0",
+        "automated": null,
+        "review": null,
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Aaron Cote",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "command",
+        "line",
+        "arguments"
+      ],
+      "notes": null,
+      "difficulty": null
+    },
+    {
+      "short": "permutations",
+      "title": "Permutations",
+      "relative_path": ".",
+      "grading": {
+        "enabled": true,
+        "weight": "15",
+        "points": "15",
+        "automated": {
+          "enabled": true,
+          "name": "Automated tests",
+          "minutes": null,
+          "weight": "12",
+          "points": "12"
+        },
+        "review": {
+          "enabled": true,
+          "name": "Code review",
+          "minutes": null,
+          "weight": "3",
+          "points": "3"
+        },
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Aaron Cote",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "recursion",
+        "permutations",
+        "usc"
+      ],
+      "notes": null,
+      "difficulty": null
+    },
+    {
+      "short": "startup_companies",
+      "title": "Startup Companies",
+      "relative_path": ".",
+      "grading": {
+        "enabled": true,
+        "weight": "35",
+        "points": "35",
+        "automated": {
+          "enabled": true,
+          "name": "Automated tests",
+          "minutes": null,
+          "weight": "25",
+          "points": "25"
+        },
+        "review": {
+          "enabled": true,
+          "name": "Code review",
+          "minutes": null,
+          "weight": "5",
+          "points": "5"
+        },
+        "manual": {
+          "enabled": true,
+          "name": "Student tests",
+          "minutes": null,
+          "weight": "5",
+          "points": "5"
+        }
+      },
+      "authors": [
+        {
+          "name": "Aaron Cote",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "startup",
+        "companies",
+        "merge",
+        "recursion"
+      ],
+      "notes": null,
+      "difficulty": null
+    },
+    {
+      "short": "tic_tac_toe",
+      "title": "Chocolate Problem: Tic Tac Toe",
+      "relative_path": "tic_tac_toe",
+      "grading": {
+        "enabled": false,
+        "weight": "0",
+        "points": "0",
+        "automated": null,
+        "review": null,
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Noah Kim",
+          "email": "aaroncot@usc.edu"
+        }
+      ],
+      "topics": [
+        "tic",
+        "tac",
+        "toe",
+        "chocolate"
+      ],
+      "notes": null,
+      "difficulty": null
+    },
+    {
+      "short": "rick_roll",
+      "title": "Note for Graders",
+      "relative_path": "rick_roll",
+      "grading": {
+        "enabled": false,
+        "weight": "0",
+        "points": "0",
+        "automated": null,
+        "review": null,
+        "manual": null
+      },
+      "authors": [
+        {
+          "name": "Noah Kim",
+          "email": "noahbkim@usc.edu"
+        }
+      ],
+      "topics": [
+        "rick",
+        "roll",
+        "lmao"
+      ],
+      "notes": null,
+      "difficulty": null
+    }
+  ],
+  "grading": {
+    "points": "50"
+  },
+  "dates": {
+    "assigned": "2020-01-15 00:00:00",
+    "due": "2020-01-29 11:59:59",
+    "deadline": null
+  },
+  "extra": {},
+  "notes": null,
+  "meta": {
+    "built": "2021-09-13 18:31:58",
+    "curricula": "2.1.1"
+  }
+}
